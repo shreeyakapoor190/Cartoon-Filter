@@ -11,12 +11,12 @@
 <td>
 
 ## Original Image:
-<img height= 300     src="images/Shreeya.png">
+<img height= 300  width=200   src="images/Shreeya.png">
 </td>
 <td>
 
 ## Output:
-<img height= 300 src="images/Cartoon.png">
+<img height= 300 width=200 src="images/Cartoon.png">
 </td>
 </tr>
 </table>
