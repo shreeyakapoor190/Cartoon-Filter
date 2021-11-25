@@ -5,17 +5,23 @@
 * Importing Required Libraries - cv2 and numpy are the libraries I have used here
 * Blurring and cartoonization of the image using various filters available in OpenCV
 <br>
+<hr>
 <table>
 <tr>
-<td>## Original Image:
-<tr float="left"><img height= 300     src="images/Shreeya.png">
+<td>
+
+## Original Image:
+<img height= 300     src="images/Shreeya.png">
 </td>
 <td>
+
 ## Output:
 <img height= 300 src="images/Cartoon.png">
-</td></td></tr>
+</td>
+</tr>
 </table>
-<br>
+
+<hr>
 
 ## Author
 
