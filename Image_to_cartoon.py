@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 
 # reading image
-img = cv2.imread("Shreeya.png")
+img = cv2.imread("images/Shreeya.png")
 
 # Edges
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)  # #convert to gray scale
